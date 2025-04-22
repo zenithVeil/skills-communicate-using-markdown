@@ -5,5 +5,7 @@
 ##### 
 ###### 
 
-![Image of Yaktocat](https://vidyaacademy.ac.in/admin/upload/album_gallery/1479852663_album_5.jpg)
+![Image of Yaktocat](https://image-static.collegedunia.com/public/college_data/images/appImage/24591_Campus.jpg?h=260&w=360&mode=crop)
 
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
