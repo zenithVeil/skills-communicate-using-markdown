@@ -12,4 +12,4 @@ var myVar = "hey all!";
 ```
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+- [x] Introduce myself to the world
